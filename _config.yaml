@@ -20,7 +20,7 @@
 
 title: "bard.dog"
 email:
-description: "Bard-related things from DevFest 2023"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bard.dog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
