@@ -2,6 +2,8 @@
 
 ## Actually have image of bard and dog
 
+- a bard and her dog, in the style of neoclassicism, magical
+
 ## Github
 
 Need to follow [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
