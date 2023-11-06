@@ -1,5 +1,11 @@
 # TODO
 
+## Starting server
+
+```sh
+bundle exec jekyll serve --config "_config.yaml,_config_dev.yaml"
+```
+
 ## Actually have image of bard and dog
 
 - a bard and her dog, in the style of neoclassicism, magical
