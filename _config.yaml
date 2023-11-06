@@ -18,18 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Prompt Engineering with Bard
-email: peter@danenberg.name
-description:
+title: "bard.dog"
+email:
+description: "Bard-related things from DevFest 2023"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bard.dog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:  jekyll
+github_username:
+logo: /assets/img/bard-dog.jpeg
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
