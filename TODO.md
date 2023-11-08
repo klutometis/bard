@@ -1,5 +1,7 @@
 # TODO
 
+## Embed bard.dog in footer
+
 ## Starting server
 
 ```sh
