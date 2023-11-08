@@ -19,19 +19,60 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "bard.dog"
+subtitle:
+name: "Peter Danenberg"
 email:
-description: ""
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bard.dog" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "klutometis/bard"
 twitter_username:
 github_username:
-logo: /assets/img/bard-dog.jpeg
+logo: "/assets/img/bard-dog.jpg"
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+social:
+  type: person
+  name: "Peter Danenberg"
+  links:
+    - "http://www.linkedin.com/in/peterdanenberg"
+    - "https://github.com/klutometis"
+  
+author:
+  name: "Peter Danenberg"
+  avatar: "/assets/img/peter-danenberg.jpg"
+  bio: "Bard engineer, LLM enthusiast"
+  location:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/klutometis"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://www.linkedin.com/in/peterdanenberg"
+    - label: "Bard Workshop"
+      url: "http://bardmeetup.ai"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
+# minima:
+#   skin: classic
+  
+#   social_links:
+#     - { platform: github,  user_url: "https://github.com/klutometis" }
+#     - { platform: linkedin, user_url: "http://www.linkedin.com/in/peterdanenberg" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +93,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - TODO.md
