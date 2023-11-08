@@ -40,7 +40,7 @@ plugins:
 author:
   name: "Peter Danenberg"
   avatar: "/assets/img/peter-danenberg.jpg"
-  bio: "Bard engineer, LLM enthusiast"
+  bio: "Bard engineer"
   location:
   links:
     - label: "GitHub"

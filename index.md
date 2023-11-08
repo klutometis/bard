@@ -6,7 +6,7 @@ layout: posts
 title: Prompt Engineering with Bard
 author_profile: true
 ---
-Here are the [slides](slides.html#/1) and
+Here are [slides](slides.html#/1) and
 [code](https://github.com/klutometis/bard/blob/main/deck.ipynb) for a talk
 I gave at [DevFest
 2023](https://gdg.community.dev/events/details/google-gdg-silicon-valley-presents-devfest-silicon-valley-2023-ai-edition/):
