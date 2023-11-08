@@ -11,4 +11,4 @@ Here are [slides](slides.html#/1) and
 I gave at [DevFest
 2023](https://gdg.community.dev/events/details/google-gdg-silicon-valley-presents-devfest-silicon-valley-2023-ai-edition/):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHLts3basj4?si=dSQSUtWbJHW_54RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WZL7t80kHDM?si=pRSrHqDpcXXFcjX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
