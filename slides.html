@@ -8624,22 +8624,22 @@ main {
     <span class="n">bard_code</span><span class="p">(</span><span class="sa">f</span><span class="s1">'''Three functions have been defined for you </span><span class="se">\</span>
 <span class="s1">for answering user queries:</span>
 <span class="s1">          </span>
-<span class="s1">def vanilla(query: str) -&gt; str:</span>
+<span class="s1">def creativity(query: str) -&gt; str:</span>
 <span class="s1">    """The default API for queries."""</span>
 
-<span class="s1">def code(query: str) -&gt; str:</span>
-<span class="s1">    """An API for answering questions with Python code."""</span>
-
-<span class="s1">def shopping(query: str) -&gt; str:</span>
+<span class="s1">def factuality(query: str) -&gt; str:</span>
 <span class="s1">    """An API for shopping-related queries."""</span>
 
-<span class="s1">Please find the most appropriate function (`vanilla`, `code`, </span><span class="se">\</span>
-<span class="s1">`shopping`); write code to call the function with the user </span><span class="se">\</span>
-<span class="s1">query; surround the code with backticks. For example, if the </span><span class="se">\</span>
+<span class="s1">def reasoning(query: str) -&gt; str:</span>
+<span class="s1">    """An API for answering questions with Python code."""</span>
+
+<span class="s1">Please find the most appropriate function (`creativity`, </span><span class="se">\</span>
+<span class="s1">`factuality`, `reasoning`); write code to call the function with the </span><span class="se">\</span>
+<span class="s1">user query; surround the code with backticks. For example, if the </span><span class="se">\</span>
 <span class="s1">user's query is "count to 10," write:</span>
 
 <span class="s1">```python</span>
-<span class="s1">code("count to 10")</span>
+<span class="s1">reasoning("count to 10")</span>
 <span class="s1">```</span>
 
 <span class="s1">Here is the query: "</span><span class="si">{</span><span class="n">query</span><span class="si">}</span><span class="s1">"'''</span><span class="p">)</span>
