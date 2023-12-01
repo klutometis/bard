@@ -6,8 +6,10 @@ layout: posts
 title: Prompt Engineering with Bard
 author_profile: true
 ---
+Stop by our Bard meetup ([bardmeetup.ai](https://bardmeetup.ai)) every other Friday from 5:00–7:00pm at Google!
+
 Here are [slides](slides.html#/1) and
-[code](https://github.com/klutometis/bard/blob/main/deck.ipynb) for a talk
+[code](https://github.com/klutometis/bard/blob/main/deck.ipynb) for the talk
 I gave at [DevFest
 2023](https://gdg.community.dev/events/details/google-gdg-silicon-valley-presents-devfest-silicon-valley-2023-ai-edition/):
 
