@@ -7,8 +7,8 @@ title: Prompt Engineering with Bard
 author_profile: true
 ---
 
-Stop by our Bard meetup ([bardmeetup.ai](https://bardmeetup.ai)) every other
-Friday from 5:00–7:00pm at Google!
+Stop by our Gemini meetup ([geminimeetup.ai](https://geminimeetup.ai)) every
+other Friday from 5:00–7:00pm at Google!
 
 Here are [slides](slides.html#/1) and
 [code](https://github.com/klutometis/bard/blob/main/deck.ipynb) for the talk I
