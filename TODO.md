@@ -1,5 +1,9 @@
 # TODO
 
+## Embed all the functions
+
+Follow up with Leetcode, help solve, etc. Let's go new repo, too?
+
 ## Embed bard.dog in footer
 
 ## Starting server
