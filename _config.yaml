@@ -49,8 +49,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/peterdanenberg"
-    - label: "Bard Workshop"
-      url: "http://bardmeetup.ai"
+    - label: "Gemini Workshop"
+      url: "http://geminimeetup.ai"
 
 defaults:
   # _posts
