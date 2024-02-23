@@ -7,7 +7,7 @@ title: Prompt Engineering with Bard
 author_profile: true
 ---
 
-Stop by our Gemini meetup ([geminimeetup.ai](https://geminimeetup.ai)) every
+Stop by our Gemini meetup ([geminimeetup.ai](http://geminimeetup.ai)) every
 other Friday from 5:00–7:00pm at Google!
 
 Here are [slides](slides.html#/1) and
